@@ -4,7 +4,7 @@
  * @Author: liuct
  * @Date: 2022-03-08 10:05:09
  * @LastEditors: liuct
- * @LastEditTime: 2022-03-08 11:12:56
+ * @LastEditTime: 2022-03-08 11:31:38
 -->
 
 ### 这是一个学习 webpack 的项目
@@ -24,3 +24,7 @@ webpack 默认只能处理 js 和 json 文件，
 ```js
 npx webpack
 ```
+
+3. Loader 就是将 Webpack 不认识的内容转化为认识的内容
+   常用的有 css-loader
+4. plugin
